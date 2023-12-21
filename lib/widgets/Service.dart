@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mdlab3/entities/ServiceEntity.dart';
+import 'package:SberApp/entities/ServiceEntity.dart';
 
 class Service extends StatelessWidget {
   final ServiceEntity data;

@@ -1,4 +1,4 @@
-package com.example.mdlab3
+package com.example.SberApp
 
 import io.flutter.embedding.android.FlutterActivity
 

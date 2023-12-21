@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mdlab3/widgets/Tag.dart';
+import 'package:SberApp/widgets/Tag.dart';
 
 class Tags extends StatelessWidget {
   final List<String> tags;

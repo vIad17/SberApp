@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mdlab3/widgets/TariffCard.dart';
+import 'package:SberApp/widgets/TariffCard.dart';
 
 class Tariff extends StatelessWidget {
   const Tariff({super.key});

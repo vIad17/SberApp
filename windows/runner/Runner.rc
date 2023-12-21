@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "mdlab3" "\0"
+            VALUE "FileDescription", "SberApp" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "mdlab3" "\0"
+            VALUE "InternalName", "SberApp" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "mdlab3.exe" "\0"
-            VALUE "ProductName", "mdlab3" "\0"
+            VALUE "OriginalFilename", "SberApp.exe" "\0"
+            VALUE "ProductName", "SberApp" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

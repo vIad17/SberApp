@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:mdlab3/entities/ServiceEntity.dart';
-import 'package:mdlab3/features/Services.dart';
-import 'package:mdlab3/features/Tags.dart';
-import 'package:mdlab3/features/Tariff.dart';
-import 'package:mdlab3/widgets/TitleWidget.dart';
+import 'package:SberApp/entities/ServiceEntity.dart';
+import 'package:SberApp/features/Services.dart';
+import 'package:SberApp/features/Tags.dart';
+import 'package:SberApp/features/Tariff.dart';
+import 'package:SberApp/widgets/TitleWidget.dart';
 
 class ProfilePage extends StatelessWidget {
   const ProfilePage({super.key});

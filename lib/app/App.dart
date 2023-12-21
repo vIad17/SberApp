@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mdlab3/layouts/layout/AppLayout.dart';
-import 'package:mdlab3/pages/ProfilePage.dart';
-import 'package:mdlab3/pages/SettingsPage.dart';
+import 'package:SberApp/layouts/layout/AppLayout.dart';
+import 'package:SberApp/pages/ProfilePage.dart';
+import 'package:SberApp/pages/SettingsPage.dart';
 
 class App extends StatelessWidget {
   const App({super.key});
